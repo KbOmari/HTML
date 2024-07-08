@@ -1,0 +1,1 @@
+This is a practice. I am learning how to build websites. This html doc is my first ever attempt at building a site. Here, I implement stuff I learn. Soon, a stylized CSS version will follow.
